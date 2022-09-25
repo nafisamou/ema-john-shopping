@@ -1,0 +1,25 @@
+.cart {
+  position: sticky;
+  top: 0;
+  width: 260px;
+  height: 944px;
+  left: 1176px;
+  padding: 10px 30px;
+  text-align: center;
+  background: rgba(255, 153, 0, 0.3);
+  border: 3px solid orange;
+}
+.cart h4 {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 23px;
+    line-height: 3px;
+  }
+  .cart p {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    font-family: "Lato";
+    letter-spacing: 0.11px;
+  }
